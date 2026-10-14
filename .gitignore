@@ -1,0 +1,18 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+
+# Local database files
+*.db
+*.db-shm
+*.db-wal
